@@ -1,4 +1,16 @@
 body {
     font-size: 12;
     background: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
   }
+
+  body h1 {
+    text-align: center;
+    background-color: cyan;
+  }
+  
+body h2 {
+    text-align: center;
+    background-color: orange;
+}
